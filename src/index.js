@@ -1,2 +1,2 @@
-export * from './useSignal.js'
-export * from './useStore.js'
+export * from './useSignal/index.js'
+export * from './useStore/index.js'
